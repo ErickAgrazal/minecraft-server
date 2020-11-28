@@ -1,0 +1,1 @@
+docker run --publish 25565:25565/tcp --name "my-minecraft-server" --env RAM=6G erickagrazal.com/dockimine
